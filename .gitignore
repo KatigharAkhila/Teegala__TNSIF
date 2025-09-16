@@ -1,0 +1,19 @@
+# Ignore Eclipse project files
+.metadata/
+.classpath
+.project
+.settings/
+
+# Ignore build directories
+bin/
+target/
+
+# Ignore compiled class files
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore OS files
+Thumbs.db
+.DS_Store
